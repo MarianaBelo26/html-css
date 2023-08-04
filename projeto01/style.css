@@ -143,6 +143,7 @@
 		   list-style-type: '\2714\00A0\00A0'; 
 		   list-style-position: inside; 
 		   columns: 2; 
+		   text-align: left;
 	}
 	aside > h3{
 		font: 700 19px Arial, Verdana, Helvetica, sans-serif;
