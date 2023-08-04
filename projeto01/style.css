@@ -101,6 +101,9 @@
 		color: rgb(6, 61, 30);
 		text-indent: 10px;
 	}
+	main > h1{
+		text-align: center;
+	}
 	h2{
 		font: 400 21px droid, cursive;
 		color: rgb(26, 92, 55);
