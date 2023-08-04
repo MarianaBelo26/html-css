@@ -32,7 +32,7 @@
 		content: '\00A0\1F517';
 	}
 	header{
-		height: 230px;
+		height: 250px;
 		background-image: linear-gradient(to top, #063d1e, #1a5c37, #2fa866);
 		color: white;
 		padding-top: 40px;
@@ -45,6 +45,10 @@
 	header > h1{
 		padding: 15px;
 		font: 400 40px 'Bebas Neue', cursive;
+		text-align: center; 
+	}
+	header > p{
+		text-align: justify;
 	}
 	nav{
 		text-align: left;
@@ -142,8 +146,8 @@
 	aside > ul{
 		   list-style-type: '\2714\00A0\00A0'; 
 		   list-style-position: inside; 
-		   columns: 2; 
-		   text-align: left;
+		   columns: 3; 
+		   
 	}
 	aside > h3{
 		font: 700 19px Arial, Verdana, Helvetica, sans-serif;
