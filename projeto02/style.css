@@ -19,7 +19,7 @@ header{
 	text-align: center;
 	margin: 0px;
 	padding: 25px;
-	width: 95.2vw;
+	width: auto;
 	height: auto;
 }
 
@@ -53,7 +53,7 @@ a:hover{
 
 section.normal{
 	background-color: white;
-	width: 95.2vw;
+	width: auto;
 	line-height: 2em;
 	text-align: left;
 	padding-top: 10vh;
@@ -70,7 +70,7 @@ section.normal > p{
 
 section.imagem{
 	background-color: lightgray;
-	width: 95.2vw;
+	width: auto;
 	line-height: 2em;
 	text-align: left;
 	padding-top: 10vh;
@@ -104,7 +104,7 @@ section.imagem > p{
 }
 
 footer{
-	width: 95.2vw;
+	width: auto;
 }
 
 footer > p{
@@ -112,8 +112,8 @@ footer > p{
 	background-color: black;
 	color: white;
 	text-align: center;
-	padding: 10px 30px;
-	margin: 0px -50px 0px 0px;
+	padding: 10px 0px;
+	margin: 0px ;
 }
 
 strong{
