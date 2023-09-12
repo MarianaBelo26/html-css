@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) and (max-width: 992px){
+
+	body{
+		background-image: linear-gradient(to top, #05928F, #0CC2B9);
+		
+	}
+
+	section#login{
+		width: 70%;
+		height: 250px;
+	}	
+		
+	section#login > div#image{
+		float: left;
+		height: 100%;
+		width: 30%;
+	}
+
+	section#login > div#form{
+		float: right;
+		height: 100%;
+		width: 70%;
+	}
+
+	div.camp > input{
+		display: inline;
+		position: absolute;
+		width: 61%;
+		height: 25px;
+		border: none;
+		border-radius: 8px;
+		margin: 5px 0px;
+		transform: translateY(-3.5px);
+	}
+}
+
+@media screen and (min-width: 992px){
+	
+	body{
+		background-image: linear-gradient(to top, #05928F, #0CC2B9);
+		
+	}
+		
+	section#login{
+		width: 70%;
+		height: 300px;
+	}	
+		
+	section#login > div#image{
+		float: right;
+		height: 100%;
+		width: 50%;
+	}
+
+	section#login > div#form{
+		float: left;
+		height: 100%;
+		width: 50%;
+	}
+
+	div.camp > input{
+	display: inline;
+	position: absolute;
+	width: 43%;
+	height: 25px;
+	border: none;
+	border-radius: 8px;
+	margin: 5px 0px;
+	transform: translateY(-3.5px);
+	}
+}

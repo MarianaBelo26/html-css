@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+/* #0CC2B6, #00DBD8, #05928F- azul 
+	#DB4F00 - laranja*/
+*{
+	font-family: -apple-system, Roboto, Oxygen, Ubuntu, 'Open Sans', 'Helvetica Neve', sans-serif;
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+html, body{
+	position: relative;
+	background-color: #05928F;
+	width: 100vw;
+	height: 100vh;
+	
+}
+
+main{
+	width: 90vw;
+	height: 90vh;
+}
+
+section#login{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	
+	width: 200px;
+	height: 470px;
+	background-color: white;
+	border-radius: 20px;
+	box-shadow: 0px 0px 20px rgb(0,0,0,0.450);
+	overflow: hidden;
+	
+	transition: width .5s, height .5s;
+	transition-timing-function: ease;
+	transform: translate(-50%, -50%);
+}
+
+section#login > div#image{
+	display: block;
+	background: black url('../imagens/img.jpg') no-repeat center center;
+	height: 200px;
+	background-size: cover;
+	
+}
+
+section#login > div#form{
+	display: block;
+	padding: 10px;
+}
+
+section#login > div#form > h1{
+	padding: 0px 0px 10px 0px;
+	text-align: center;
+}
+
+form > div.camp{
+	font-size: 1em;
+	width: 100%;
+	height: 30px;
+	border: 1px solid #DB4F00;
+	border-radius: 8px;
+	margin: 10px 0px;
+}
+
+form > div.camp {
+    font-size: 1em;
+    width: 100%;
+    height: 30px;
+    border: 1.5px solid #DB4F00;
+    border-radius: 8px;
+    margin: 10px 0px;
+}
+
+div.camp > span{
+	font-size: 1.5em;
+	margin: 1.5px;
+}
+
+div.camp > input{
+	display: inline;
+	position: absolute;
+	width: 75%;
+	height: 25px;
+	border: none;
+	border-radius: 8px;
+	margin: 5px 0px;
+	transform: translateY(-3.5px);
+}
+
+div.camp > label{
+	display: none;
+	width: 100%;
+	height: 30px;
+}
+
+form > input[type=submit]{
+	display: block;
+	width: 100%;
+	height: 30px;
+	font-size: 1em;
+	background-color: #DB4F00;
+	color: white;
+	text-height: bolder;
+	border: none;
+	border-radius: 8px;
+}
+
+form > input[type=submit]:hover{
+	background-color: #0CC2B6;
+	color: white;
+	cursor: pointer;
+}
+
+form > a{
+	display: block;
+	font-size: 1em;
+	padding-top: 5px;
+	margin-top: 5px;
+	text-align: center;
+	width: 100%;
+	height: 30px;
+	background-color: white;
+	color: black;
+	border: 1px solid #DB4F00;
+	border-radius: 8px;
+	text-decoration: none;
+}
+
+form > a:hover{
+	background-color: #0CC2B6;
+	color: white;
+	cursor: pointer;
+}
+
+footer{
+	padding: 10px;
+	margin-top: 29px;
+	background-color: #DB4F00;
+}
+footer > p{
+	font-size: 77%;
+	color: white;
+	text-align: center;
+}
