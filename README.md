@@ -4,7 +4,7 @@
  ## 📲 Acesse
  <a href='https://linkedin.com/in/marianabelo26/' target='_blank'><strong>LinkedIn</strong></a>
  <br>
- <a href='https://instagram.com/in/mariana_.belo/' target='_blank'><strong>Instagram</strong></a>
+ <a href='https://instagram.com/mariana_.belo/' target='_blank'><strong>Instagram</strong></a>
  
 <h2>Conheça meus projetos</h2>
 
