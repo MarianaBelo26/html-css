@@ -2,6 +2,7 @@
 <h1 align="center">Repositório de HTML5 e CSS3</h1>
 
  ## 📲 Acesse
+ <br>
 <p><strong>Minhas redes:</strong>
 <br>
  <a href='https://linkedin.com/in/marianabelo26/' target='_blank'>LinkedIn</a>
