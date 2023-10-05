@@ -2,12 +2,12 @@
 <h1 align="center">Repositório de HTML5 e CSS3</h1>
 
  ## 📲 Acesse
- 
+
  <strong>Minhas redes:</strong>
 <br>
- <a href='https://linkedin.com/in/marianabelo26/' target='_blank'>LinkedIn</a>
+[LinkedIn](https://linkedin.com/in/marianabelo26/)
  <br>
- <a href='https://instagram.com/mariana_.belo' target='_blank'>Instagram</a>
+[Instagram](https://instagram.com/mariana_.belo)
  
 <h2>Conheça meus projetos</h2>
 
